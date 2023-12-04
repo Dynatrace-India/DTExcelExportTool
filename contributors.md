@@ -1,11 +1,9 @@
 # List of Contributors
-------------------------------------------------------
-Name: Ashish Zingade
-Contribution: Building the tool with Kotlin
-Team: India Innovation Lab
-------------------------------------------------------
-Name: Vishruth Harithsa
-Contribution: Initiator, Maintainer
-Team: India Innovation Lab
 
------------------------------------------------------------------------------
+Name: Ashish Zingade <br>
+Contribution: Building the tool with Kotlin <br>
+Team: India Innovation Lab <br>
+
+Name: Vishruth Harithsa <br>
+Contribution: Initiator, Maintainer <br>
+Team: India Innovation Lab <br>
